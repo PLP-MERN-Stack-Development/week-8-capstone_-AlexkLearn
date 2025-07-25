@@ -8,7 +8,7 @@
 ## ANNOUNCEMENT!!
 
 This Project is still under development and many fubctionalities are not working  
-For collaboration and other issues email me at [Alex📩](kimaria117@gmail.com)
+For collaboration and other issues email me at [Alex📩](mailto:kimaria117@gmail.com)
 
 ---
 
